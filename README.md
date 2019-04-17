@@ -3,6 +3,7 @@ This is a small project created for the purpose of self learning React Native an
 
 ## Features 
 * Expo CLI: allows us to run the native app locally without worrying about setting up a simulator for the IOS/Andorid.
+* React Native
 
 ## Install 
 ```sh
